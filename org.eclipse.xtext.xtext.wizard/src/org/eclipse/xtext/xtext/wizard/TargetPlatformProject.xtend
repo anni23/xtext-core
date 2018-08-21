@@ -93,9 +93,9 @@ class TargetPlatformProject extends ProjectDescriptor {
 			<unit id="org.junit.platform.runner" version="1.1.0.v20180327-1502"/>
 			<unit id="org.opentest4j" version="1.0.0.v20180327-1502"/>
 			«ENDIF»
-			<unit id="org.objectweb.asm" version="6.1.1.v20180414-0329"/>
-			<unit id="org.objectweb.asm.tree" version="6.1.1.v20180414-0329"/>
-			<repository location="http://download.eclipse.org/tools/orbit/downloads/drops/R20180606145124/repository"/>
+			<unit id="org.objectweb.asm" version="6.2.0.v20180807-1520"/>
+			<unit id="org.objectweb.asm.tree" version="6.2.0.v20180807-1520"/>
+			<repository location="http://download.eclipse.org/tools/orbit/downloads/drops/S20180820175350/repository"/>
 		</location>
 		</locations>
 		</target>
